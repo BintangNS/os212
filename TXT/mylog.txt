@@ -10,5 +10,10 @@ ZCZC W00 100 L02 Zoom meetings related
 ZCZC W00 100 L02 Zoom Meetings pak Anwar Ma'sum
 ZCZC W00 25 L09 Download VirtualBox
 ZCZC W01 100 L02 Zoom Meetings pak Anwar Ma'sum
-ZCZC W01 30 L09 Download VirtualBox - Debian, putty, winscp
+ZCZC W01 30 L11 VirtualBox Guest Preparation
+ZCZC W01 30 L12 Assignment #02 Importing or Installing?
+ZCZC W01 30 L13 Assignment #03 The ATM Way: GSGS and Read
+ZCZC W01 30 L14 Assignment #04 Dress Up Your Virtual Guest
+ZCZC W01 60 L15 Assignment #05 SSH Keys and Git Cloning
+
 
