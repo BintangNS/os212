@@ -10,5 +10,5 @@ ZCZC W00 100 L02 Zoom meetings related
 ZCZC W00 100 L02 Zoom Meetings pak Anwar Ma'sum
 ZCZC W00 25 L09 Download VirtualBox
 ZCZC W01 100 L02 Zoom Meetings pak Anwar Ma'sum
-ZCZC W00 30 L09 Download VirtualBox - Debian
+ZCZC W00 30 L09 Download VirtualBox - Debian, putty, winscp
 
