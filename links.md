@@ -7,7 +7,7 @@ permalink: /LINKS/
  Tutorial for JavaScript, this website provides some exercises to help us learning JavaScript from the basic.
  
 2. [Operating System Video](https://www.youtube.com/watch?v=vBURTt97EkA&list=PLBlnK6fEyqRiVhbXDGLXDk_OQAeuVcp2O)
- A video about introducing what is Operating System by Nesso Academy, They provide a video about the basic of operating system and much more.
+  A video about introducing what is Operating System by Nesso Academy, They provide a video about the basic of operating system and much more.
  
  [LOG](TXT/mylog.txt) -
 [REPO](https://github.com/bintangns/os212) -
