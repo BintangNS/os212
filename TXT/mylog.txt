@@ -8,6 +8,7 @@ ZCZC W00 105 L04 GitHub Pages related
 ZCZC W00 30 L10 Assignment #00 
 ZCZC W00 100 L02 Zoom meetings related
 ZCZC W00 100 L02 Zoom Meetings pak Anwar Ma'sum
+ZCZC W00 5 L22 Quiz
 ZCZC W00 25 L09 Download VirtualBox
 ZCZC W01 100 L02 Zoom Meetings pak Anwar Ma'sum
 ZCZC W01 30 L11 VirtualBox Guest Preparation
@@ -21,3 +22,4 @@ ZCZC W01 30 L16 Assignment #06 Dress Up Your GitHub Page
 ZCZC W01 10 L17 Assignment #07 Update mylog.txt
 ZCZC W01 30 L18 Assignment #08 More awk, bash, regex, sed
 ZCZC W01 30 L19 Assignment #09 OSC 10
+
