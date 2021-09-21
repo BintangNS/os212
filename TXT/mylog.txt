@@ -32,4 +32,5 @@ ZCZC W02 20 L15 Assignment #05 List of all GnuPG Keys
 ZCZC W02 20 L16 Assignment #06 Importing ospubkey.txt Key from https://osp4diss.vlsm.org/W02-02.html.
 ZCZC W02 20 L17 Assignment #07 Signing the Operating Systems public key (Optional).
 ZCZC W02 20 L18 Assignment #08 Export YOUR PUBLIC KEY to your repo file ”TXT/mypubkey.txt”.
+ZCZC W02 100 L02 Zoom Meetings Pak Anwar Ma'sum
 
