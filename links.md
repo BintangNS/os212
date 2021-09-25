@@ -8,6 +8,9 @@ permalink: /LINKS/
  
 2. [Operating System Video](https://www.youtube.com/watch?v=vBURTt97EkA&list=PLBlnK6fEyqRiVhbXDGLXDk_OQAeuVcp2O)  
   A video about introducing what is Operating System by Nesso Academy, They provide a video about the basic of operating system and much more.
+
+3. [GitHub Tutorial](https://www.youtube.com/watch?v=fQbTeNX1mvM)
+  A video about GitHub basic tutorial, if you want to know learn the basic of github, i reccomend to watch this video. They provide the video with Bahasa Indonesia.
  
  [LOG](TXT/mylog.txt) -
 [REPO](https://github.com/bintangns/os212) -
