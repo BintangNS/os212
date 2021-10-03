@@ -11,6 +11,9 @@ permalink: /LINKS/
 
 3. [GitHub Tutorial](https://www.youtube.com/watch?v=fQbTeNX1mvM)
   A video about GitHub basic tutorial, if you want to know learn the basic of github, i reccomend to watch this video. They provide the video with Bahasa Indonesia.
+
+4. [Linux File System Command](https://www.tutorialspoint.com/unix/unix-file-system.html)
+  A Website where you can find a lot of Linux File System Command, this may help you for OS.
  
  [LOG](TXT/mylog.txt) -
 [REPO](https://github.com/bintangns/os212) -
