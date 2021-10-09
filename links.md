@@ -14,6 +14,9 @@ permalink: /LINKS/
 
 4. [Linux File System Command](https://www.tutorialspoint.com/unix/unix-file-system.html)
   A Website where you can find a lot of Linux File System Command, this may help you for OS.
+
+5. [Bash Scripting Tutorial](https://www.youtube.com/watch?v=e7BufAVwDiM)
+  Tutorial video about Bash Scripting for linux, very helpful if you want to learn about bash scripting.
  
  [LOG](TXT/mylog.txt) -
 [REPO](https://github.com/bintangns/os212) -

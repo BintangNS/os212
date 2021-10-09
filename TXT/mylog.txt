@@ -58,5 +58,17 @@ ZCZC W04 60 L16 Assignment #06 Update your bookmark links. See C.B. Kadal’s ”LIN
 ZCZC W04 60 L17 Assignment #07 Review your peer links.
 ZCZC W04 15 L18 Assignment #08 Update your log. See C.B. Kadal’s ”mylog.txt”
 ZCZC W04 60 L19 Assignment #09 Submit Your Week 04 Assignment.
+ZCCZ W05 20 L22 Quiz OS
+ZCZC W05 180 L02 Zoom Meetings
+ZCZC W05 120 L11 Assignment #01  Read OSC10 chapter 10
+ZCZC W05 120 L12 Assignment #02 Try Demos in https://github.com/UI-FASILKOM-OS/SistemOperasi/tree/master/Demos/
+ZCZC W05 60 L13 Assignment #03 Try Previous MidTem Problems (https://rms46.vlsm.org/2/200.pdf).
+ZCZC W05 180 L14 Assignment #04 How Low Memory Can You Go?
+ZCZC W05 120 L15 Assignment #05 Update your bookmark links. See C.B. Kadal’s ”LINKS/”
+ZCZC W05 60 L16 Assignment #06 Tips!
+ZCZC W05 60 L17 Assignment #07 Review your peer links.
+ZCZC W05 30 L18 Assignment #08 Update your log. See C.B. Kadal’s ”mylog.txt”
+ZCZC W05 60 L19 Assignment #09 Submit Your Week 05 Assignment.
+
 
 
