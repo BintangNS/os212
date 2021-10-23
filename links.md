@@ -17,6 +17,9 @@ permalink: /LINKS/
 
 5. [Bash Scripting Tutorial](https://www.youtube.com/watch?v=e7BufAVwDiM)
   Tutorial video about Bash Scripting for linux, very helpful if you want to learn about bash scripting.
+
+6. [Operating System](https://www.operating-system.org/index.html)
+  Contains the history and dvelopment of operating system.
  
  [LOG](TXT/mylog.txt) -
 [REPO](https://github.com/bintangns/os212) -
