@@ -20,6 +20,9 @@ permalink: /LINKS/
 
 6. [Operating System](https://www.operating-system.org/index.html)
   Contains the history and dvelopment of operating system.
+
+7. [SSH with VS Code](https://www.youtube.com/watch?v=lKXMyln_5q4)
+  You can login to your SSH with VS Code to make your assignment easier!.
  
  [LOG](TXT/mylog.txt) -
 [REPO](https://github.com/bintangns/os212) -

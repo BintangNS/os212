@@ -12,6 +12,12 @@ permalink: /TIPS/
 ## 4. If you feel tired from studying, take a rest!
 
 ## 5. Take your time to understanding something, don't rush it.
+
+## 6. If your internet is down, use your phone to join class.
+
+## 7. If you don't have something to do, don't sleep late!.
+
+
  
  [LOG](TXT/mylog.txt) -
 [REPO](https://github.com/bintangns/os212) -
