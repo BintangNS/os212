@@ -17,6 +17,8 @@ permalink: /TIPS/
 
 ## 7. If you don't have something to do, don't sleep late!.
 
+## 8. Make sure your pc is strong for OS
+
 
  
  [LOG](TXT/mylog.txt) -

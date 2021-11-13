@@ -23,6 +23,13 @@ permalink: /LINKS/
 
 7. [SSH with VS Code](https://www.youtube.com/watch?v=lKXMyln_5q4)
   You can login to your SSH with VS Code to make your assignment easier!.
+
+8. [Linux from Scratch](https://www.linuxfromscratch.org/index.html)
+  provides you with step-by-step instructions for building your own custom Linux system, entirely from source code.
+
+9. [How to Build Linux from Scratch](https://www.youtube.com/playlist?list=PLyc5xVO2uDsAlIkKBIGauDQ6LejoQovyL)
+  A tutorial to build linux from scratch!
+
  
  [LOG](TXT/mylog.txt) -
 [REPO](https://github.com/bintangns/os212) -
