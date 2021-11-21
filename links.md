@@ -30,6 +30,9 @@ permalink: /LINKS/
 9. [How to Build Linux from Scratch](https://www.youtube.com/playlist?list=PLyc5xVO2uDsAlIkKBIGauDQ6LejoQovyL)
   A tutorial to build linux from scratch!
 
+10. [How to install Ubuntu](https://phoenixnap.com/kb/install-ubuntu-20-04)
+  A tutorial about how to install ubuntu.
+
  
  [LOG](TXT/mylog.txt) -
 [REPO](https://github.com/bintangns/os212) -

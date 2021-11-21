@@ -19,6 +19,8 @@ permalink: /TIPS/
 
 ## 8. Make sure your pc is strong for OS
 
+## 9. Don't cheat while doing your test!
+
 
  
  [LOG](TXT/mylog.txt) -
